@@ -1,0 +1,6 @@
+name: 'Qrcode Example'
+description: 'Example module of adding Qrcode to toolbar.'
+type: module
+core: 8.x
+dependencies:
+  - dyniva_examples
