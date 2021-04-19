@@ -2,4 +2,4 @@ name: 'Dyniva Examples'
 description: 'Dyniva Examples collects basic functions and development examples.'
 type: module
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
